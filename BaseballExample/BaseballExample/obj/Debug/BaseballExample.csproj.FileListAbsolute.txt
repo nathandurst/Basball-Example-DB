@@ -1,0 +1,11 @@
+E:\BaseballExample\BaseballExample\bin\Debug\Baseball.mdf
+E:\BaseballExample\BaseballExample\bin\Debug\Baseball_log.ldf
+E:\BaseballExample\BaseballExample\bin\Debug\EntityFramework.dll
+E:\BaseballExample\BaseballExample\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaseballExample\BaseballExample\bin\Debug\EntityFramework.xml
+E:\BaseballExample\BaseballExample\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaseballExample\BaseballExample\obj\Debug\BaseballExample.dll
+E:\BaseballExample\BaseballExample\obj\Debug\BaseballExample.pdb
+E:\BaseballExample\BaseballExample\bin\Debug\BaseballExample.dll.config
+E:\BaseballExample\BaseballExample\bin\Debug\BaseballExample.dll
+E:\BaseballExample\BaseballExample\bin\Debug\BaseballExample.pdb

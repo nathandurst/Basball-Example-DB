@@ -1,0 +1,17 @@
+E:\BaseballExample\DisplayTable\bin\Debug\Baseball.mdf
+E:\BaseballExample\DisplayTable\bin\Debug\Baseball_log.ldf
+E:\BaseballExample\DisplayTable\bin\Debug\DisplayTable.exe.config
+E:\BaseballExample\DisplayTable\bin\Debug\DisplayTable.exe
+E:\BaseballExample\DisplayTable\bin\Debug\DisplayTable.pdb
+E:\BaseballExample\DisplayTable\bin\Debug\BaseballExample.dll
+E:\BaseballExample\DisplayTable\bin\Debug\EntityFramework.dll
+E:\BaseballExample\DisplayTable\bin\Debug\BaseballExample.pdb
+E:\BaseballExample\DisplayTable\bin\Debug\EntityFramework.xml
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.csprojResolveAssemblyReference.cache
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.Properties.Resources.resources
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.csproj.GenerateResource.Cache
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.exe
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.pdb
+E:\BaseballExample\DisplayTable\bin\Debug\EntityFramework.SqlServer.dll
+E:\BaseballExample\DisplayTable\bin\Debug\EntityFramework.SqlServer.xml
+E:\BaseballExample\DisplayTable\obj\Debug\DisplayTable.DisplayPlayerTable.resources
